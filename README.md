@@ -1,12 +1,18 @@
 <p align="center">
- <img src="https://github.com/iamafram/moday/blob/master/img/logo.png" align="center" alt="logo" />
+ <img src="https://github.com/iamafram/mot_du_jour/blob/master/logo1.png" align="center" alt="logo" />
  <h2 align="center">Moday</h2>
  <p align="center">Apprend un nouveau mot avec ton terminal ! </p>
 </p>
 
   <p align="center">
-    <a href="https://github.com/iamafram/">Signaler un bug</a>
+    <a href="https://github.com/iamafram/moday/issues">Signaler un bug</a>
   </p>
+</p>
+
+## Démonstration 
+
+<p align="center">
+ <img src="https://github.com/iamafram/moday/blob/master/img/demo.gif" align="center" alt="demo" />
 </p>
 
 ## Commencement
@@ -19,7 +25,7 @@ Cloner le repertoire
 
     git clone https://github.com/iamafram/moday
 
-Installer les paquets python nécessaires
+Installer les paquets nécessaires
 
     pip3 install -r requirements.txt  
 
