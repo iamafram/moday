@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/iamafram/mot_du_jour/blob/master/logo1.png" align="center" alt="logo" />
+ <img src="https://github.com/iamafram/moday/blob/master/img/logo.png" align="center" alt="logo" />
  <h2 align="center">Moday</h2>
  <p align="center">Apprend un nouveau mot avec ton terminal ! </p>
 </p>
